@@ -19,7 +19,7 @@ h2 {
   font-size: 42px;
 }
 
-h5 {
+.p2Para {
   font-size: 21px;
   color: gray;
   font-weight: normal;
@@ -32,4 +32,8 @@ a {
 
 .campingImage {
   margin-bottom: 40px;
+}
+
+footer {
+  text-align: right;
 }
